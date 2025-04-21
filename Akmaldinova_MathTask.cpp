@@ -20,4 +20,5 @@ int main() {
     cout << "N-я цифра числа X (справа налево): " << nthDigit << endl;
 
     return 0;
+    
 }

@@ -52,6 +52,7 @@ int getNthDigit(int X, int N) {
         X /= 10; // Удаление последней цифры
     }
     return X % 10; // Возвращаем N-ю цифру
+    
 }
 
 #endif
